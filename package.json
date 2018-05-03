@@ -1,0 +1,23 @@
+{
+  "name": "nodetool-json2excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echoyoung46/nodetool-json2excel.git"
+  },
+  "author": "echowtyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/echoyoung46/nodetool-json2excel/issues"
+  },
+  "homepage": "https://github.com/echoyoung46/nodetool-json2excel#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "json2excel": "^1.2.0"
+  }
+}
